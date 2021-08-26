@@ -12,6 +12,22 @@ At the command prompt, type `nano`.
 
 ## Code Blocks
 
+Code block indented with 4 spaces:
+
+    <html>
+      <head>
+      </head>
+    </html>
+
+Fenced Code block with specified type (JSON)
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 ## Code Blocks in List
 1. Open the file.
@@ -29,6 +45,8 @@ At the command prompt, type `nano`.
 > This is an example of blockquote
 
 > This is an example
+>
 > of blockquote
+>
 > on multiple lines
 

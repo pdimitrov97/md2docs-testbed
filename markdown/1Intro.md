@@ -4,7 +4,7 @@ title: Markdown Use Cases
 
 # Use cases for Markdown
 
-This document serves as a test bed for Markdown to HTML conversion.
+This document serves as a test bed for Markdown to HTML conversion. Used <https://www.markdownguide.org/basic-syntax> as a source for Markdown snippets.
 
 This is an example of **bolded** __bolded__ text.
 
