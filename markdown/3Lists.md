@@ -1,4 +1,10 @@
-# Unordered Lists
+---
+title: Markdown List
+---
+
+# Markdown List Use Cases
+
+## Unordered Lists
 
 - First item
 - Second item
@@ -17,7 +23,7 @@
     - Indented item
 * Fourth item
 
-# Ordered Lists
+## Ordered Lists
 
 1. First item
 2. Second item
@@ -29,7 +35,7 @@
 1. Third item
 4. Fourth item
 
-# Mixed Lists
+## Mixed Lists
 
 1. First item
 1. Second item

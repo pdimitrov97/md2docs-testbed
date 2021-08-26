@@ -1,4 +1,8 @@
-# HTML Best Practices
+---
+title: HTML Best Practices
+---
+
+# HTML Best Practices Use Cases
 
 For security reasons, not all Markdown applications support HTML in Markdown documents. When in doubt, check your Markdown application’s documentation. Some applications support only a subset of HTML tags.
 

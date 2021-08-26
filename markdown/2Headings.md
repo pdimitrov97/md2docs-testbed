@@ -1,3 +1,7 @@
+---
+title: Markdown Headings Use Cases
+---
+
 # Heading level 1
 
 ## Heading level 2

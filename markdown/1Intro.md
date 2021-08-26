@@ -1,4 +1,8 @@
-# MD 2 Docs Test Bed
+---
+title: Markdown Use Cases
+---
+
+# Use cases for Markdown
 
 This document serves as a test bed for Markdown to HTML conversion.
 
