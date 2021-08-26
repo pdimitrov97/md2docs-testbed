@@ -12,4 +12,4 @@
     - [Variables](erb/3Erb-Variables.md)
     - [If Statements](erb/4Erb-If-Statements.md)
     - [Partials](erb/5Erb-Partials.md)
-    - [Image Tags](erb/6Image-Tags.md)
+    - [Image Tags](erb/6Erb-Image-Tags.md)
