@@ -13,3 +13,6 @@
     - [If Statements](erb/4Erb-If-Statements.md)
     - [Partials](erb/5Erb-Partials.md)
     - [Image Tags](erb/6Erb-Image-Tags.md)
+- [Html](html/htmlAndMarkdown.html)
+    - [Html](html/htmlAndMarkdown.html)
+    - [Html With HBS](/html/htmlOnlyWithHbsSyntax.html)
