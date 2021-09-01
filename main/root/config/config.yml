@@ -1,0 +1,7 @@
+configuration:
+  foo: bar
+template_variables:
+  product_full: Md2Docs Test Bed
+  product_short: Md2Docs
+other:
+  foo: bar
