@@ -1,0 +1,22 @@
+---
+title: YAML Metadata
+content: Markdown File
+description: YAML Metadata Example
+---
+
+# YAML Metadata in files
+
+The tool can read YAML metadata from each content file (.html or .md) in the following format
+
+---
+title: ...
+content: ...
+---
+
+The YAML metadata must be at the beginning of the file. It will not be displayed in the final output
+
+The YAML Metadata for this file is:
+
+**title**: {{ current_page.data.title }}
+**content**: {{ current_page.data.content }}
+**description**: {{ current_page.data.description }}

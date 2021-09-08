@@ -7,18 +7,19 @@ title:  HTML content with ERB snippets
 <p>
     This is a <strong>\<%= vars.product_full %></strong> value from variables
 <div>
+    Product Full:
     <strong><%= vars.product_full %></strong>
 </div>
 </p>
 
 <p>
-    Calling partial with the double quotes>
+    Calling partial with the double quotes
     <%= partial "message.html" %>
 </p>
 
 <br/>
 
 <p>
-    Calling partial with the single quotes>
+    Calling partial with the single quotes
     <%= partial 'message.html' %>
 </p>

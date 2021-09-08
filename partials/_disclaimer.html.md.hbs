@@ -1,5 +1,5 @@
 {{# evalExpression "current_page.data.content == 'html'" }}
-<p>This partial is used in HTML file</p>
+<p>This partial is used in file that has metadata data.content: "html"</p>
 {{else}}
-This partial is not used in HTML file
+This partial is used in file that does not has veetadata data.content: "html"
 {{/evalExpression}}
