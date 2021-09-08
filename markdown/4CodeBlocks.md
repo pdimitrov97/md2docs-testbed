@@ -30,6 +30,9 @@ Fenced Code block with specified type (JSON)
 ```
 
 ## Code Blocks in List
+
+ Code blocks in lists have to be indented with at least 8 spaces (4 tabs) and separated with a blank line from other content
+
 1. Open the file.
 1. Find the following code block on line 21:
 

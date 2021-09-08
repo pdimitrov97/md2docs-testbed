@@ -1,8 +1,8 @@
 ---
-title: Markdown Use Cases
+title: Basic Markdown
 ---
 
-# Use cases for Markdown
+# Baseic use cases for Markdown
 
 This document serves as a test bed for Markdown to HTML conversion. Used <https://www.markdownguide.org/basic-syntax> as a source for Markdown snippets.
 
