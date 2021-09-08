@@ -6,7 +6,9 @@ title: Curly brackets and Comments
 
 ## Curly brackets
 
-Markdown project uses <https://handlebarsjs.com/> templating engine to process dynamic content. Handlebars syntax is using curly brackets, so any usage of curly brackets has to be escaped if it is not a Handlebars syntax.
+Markdown project uses <https://handlebarsjs.com/> templating engine to process dynamic content. 
+
+Handlebars syntax is using curly brackets, so any usage of curly brackets has to be escaped if it is not a Handlebars syntax.
 
 ## Comments
 

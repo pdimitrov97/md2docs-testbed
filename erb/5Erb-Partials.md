@@ -14,3 +14,7 @@ Simple If statement checking variable value:
 ```
 {{> about }}
 ```
+
+Result:
+
+<%= partial 'message.html.hbs' %>
