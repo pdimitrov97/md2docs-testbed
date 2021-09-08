@@ -16,4 +16,5 @@
 - [Html](html/htmlAndMarkdown.html)
     - [Html](html/htmlAndMarkdown.html)
     - [Html With HBS](html/htmlOnlyWithHbsSyntax.html)
+    - [Html With ERB](html/htmlOnlyWithErbSyntax.html)
 - [Cross Intro](/evil-twin/1Intro.md)
