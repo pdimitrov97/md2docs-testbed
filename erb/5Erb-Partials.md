@@ -14,7 +14,3 @@ Simple If statement checking variable value:
 ```
 {{> about }}
 ```
-
-Result:
-
-<%= partial 'ruby.html' %>

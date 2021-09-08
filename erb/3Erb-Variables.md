@@ -13,7 +13,3 @@ ERB Variables are automatically converted into Handlebars variables
 ```
 {{ vars.product_name }}
 ```
-
-Result:
-
-<%= vars.product_name %>
