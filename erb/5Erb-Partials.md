@@ -17,4 +17,4 @@ Simple If statement checking variable value:
 
 Result:
 
-<%= partial 'message.html.hbs' %>
+<%= partial 'ruby.html' %>
