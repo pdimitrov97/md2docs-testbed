@@ -19,4 +19,5 @@
         - [Html](html/htmlAndMarkdown.html)
         - [Html With HBS](html/htmlOnlyWithHbsSyntax.html)
         - [Html With ERB](html/htmlOnlyWithErbSyntax.html)
+        - [Html With Unknown ERB](html/htmlAndUntranslatableErbSyntax.html)
     - [Cross Intro](/evil-twin/1Intro.md)
