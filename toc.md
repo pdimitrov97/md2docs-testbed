@@ -2,7 +2,7 @@
     - [Markdown](markdown/1Intro.md)
         - [Headings](markdown/2Headings.md)
         - [Lists](markdown/3Lists.md)
-        - [Code Blocsk](markdown/4CodeBlocks.md)
+        - [Code Blocks](markdown/4CodeBlocks.md)
         - [Tables](markdown/5Tables.md)
         - [Images](markdown/6Images.md)
         - [Links](markdown/7Links.md)
