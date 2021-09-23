@@ -21,5 +21,5 @@
         - [Html With ERB](html/htmlOnlyWithErbSyntax.html)
         - [Html With Unknown ERB](html/htmlAndUntranslatableErbSyntax.html)
         - [Html With Video HBS](html/htmlAndHbsForVideo.html.md.hbs)
-        - [Html with Native Constructs](htmlNavitveConstructs.html)
+        - [Html with Native Constructs](html/htmlNavitveConstructs.html)
     - [Cross Intro](/evil-twin/1Intro.md)
