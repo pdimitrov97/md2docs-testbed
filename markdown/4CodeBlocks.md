@@ -43,6 +43,15 @@ Fenced Code block with specified type (JSON)
 
 1. Update the title to match the name of your website.
 
+    ``` shell
+      $ echo 'Prague,Jan,101,4875.33
+      Rome,Mar,86,1557.39
+      Bangalore,May,317,8936.99
+      Beijin,Jul,411,11600.67' > /tmp/pxf_hdfs_simple.txt
+    ```
+
+    Note the use of comma `,` to separate the four data fields
+
 ## Blockquotes:
 
 > This is an example of blockquote
