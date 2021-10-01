@@ -1,3 +1,9 @@
 
 # Markdown Project Tool
 .dist/
+
+# Markdown Project Tool
+_dist/
+
+# Markdown Project Tool
+_md-cli/
