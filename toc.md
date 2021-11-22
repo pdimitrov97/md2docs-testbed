@@ -17,9 +17,10 @@
         - [Image Tags](erb/6Erb-Image-Tags.md)
         - [Dynamic Page Title](erb/7ErbFile.md.erb)
     - [Html](html/htmlAndMarkdown.html)
-        - [Html](html/htmlAndMarkdown.html)
+        - [Html](html/htmlAndMarkdown.html)ccccc
         - [Html With HBS](html/htmlOnlyWithHbsSyntax.html)
         - [Html With ERB](html/htmlOnlyWithErbSyntax.html)
         - [Html With Unknown ERB](html/htmlAndUntranslatableErbSyntax.html)
         - [Html With Video HBS](html/htmlAndHbsForVideo.html.md.hbs)
         - [Html with Native Constructs](html/htmlNavitveConstructs.html)
+        - [Html with nested ERB If statements](html/erb-nested-if-statements.html)

@@ -1,0 +1,26 @@
+Before If Statement:
+
+Begin of If-Statement 1
+<% if current_page.data.windowsclusters == true %>
+
+    If-Statement 1
+
+<% else %>
+
+    Else of If-Statement 1
+
+    <% if (current_page.data.iaas == "vSphere-NSX-T" || current_page.data.iaas == "vSphere") %>
+
+    If-Statement 2
+
+    <% else %>
+
+    Else of If-Statement 2
+
+    <% end %>
+End of If-Statement 2
+  
+<% end %>
+End of If-Statement 1
+
+After If Statements:
