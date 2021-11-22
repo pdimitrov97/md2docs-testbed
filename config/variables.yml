@@ -1,3 +1,4 @@
 template_variables:
   product_full: Md2Docs Test Bed
   product_short: Md2Docs
+  current_version: 1
