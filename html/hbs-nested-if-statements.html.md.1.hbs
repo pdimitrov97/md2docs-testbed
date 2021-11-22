@@ -1,0 +1,26 @@
+Before If Statement:
+
+Begin of If-Statement 1
+{{# evalExpression "vars.current_version == '1'" }}
+
+If-Statement 1
+
+{{ else }}
+
+Else of If-Statement 1
+
+{{# evalExpression "vars.max_version == '1'" }}
+
+If-Statement 2
+
+{{ else }}
+
+Else of If-Statement 2
+
+{{/evalExpression}}
+End of If-Statement 2
+  
+{{/evalExpression}}
+End of If-Statement 1
+
+After If Statements:
