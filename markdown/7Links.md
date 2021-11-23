@@ -9,4 +9,6 @@ Information about the company you can find on [VMware](https://www.vmware.com) w
 Relative link to an image on the site [Image](images/tn-workstation-pro-16.jpg).
 
 
-Link to another repo [Link To Another Repo](/md2docs-testbed-copy/1intro.md) website.
+Link to another repo [Link To Another Repo](/md2docs-testbed-copy/1intro.md).
+
+Link to another repo [Link To Another Repo](/md2docs-testbed-copy/markdown/1intro.md).
