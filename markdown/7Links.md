@@ -12,3 +12,5 @@ Relative link to an image on the site [Image](images/tn-workstation-pro-16.jpg).
 Link to another repo [Link To Another Repo](/md2docs-testbed-copy/1intro.md).
 
 Link to another repo [Link To Another Repo](/md2docs-testbed-copy/markdown/1intro.md).
+
+Link to another repo [Link To Another Repo](/md2docs-testbed/blank-test-file.txt).
