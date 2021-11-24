@@ -13,4 +13,4 @@ Link to another repo [Link To Another Repo](/md2docs-testbed-copy/1intro.md).
 
 Link to another repo [Link To Another Repo](/md2docs-testbed-copy/markdown/1intro.md).
 
-Link to another repo [Link To Another Repo](/md2docs-testbed/blank-test-file.txt).
+Link to another repo [Link To Another Repo](/md2docs-testbed/text-file.txt).
