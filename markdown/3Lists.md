@@ -1,5 +1,9 @@
 ---
 title: Markdown List
+chs:
+    id: "vr-2015"
+    title: "CHS title"
+    description: "CHS description"
 ---
 
 # Markdown List Use Cases
