@@ -1,0 +1,48 @@
+<h1 id="markdwn-code-block-use-cases">Markdwn Code Block Use Cases</h1>
+<h2 id="code-phrase">Code Phrase</h2>
+<p>At the command prompt, type <code>nano</code>.</p>
+<p><code>Use `code` in your Markdown file.</code></p>
+<h2 id="code-blocks">Code Blocks</h2>
+<p>Code block indented with 4 spaces:</p>
+<pre class="pre codeblock vm-code-block prettyprint"><code>&lt;html&gt;
+  &lt;head&gt;
+  &lt;/head&gt;
+&lt;/html&gt;
+</code></pre>
+<p>Fenced Code block with specified type (JSON)</p>
+<pre><code class="language-json">{
+  &quot;firstName&quot;: &quot;John&quot;,
+  &quot;lastName&quot;: &quot;Smith&quot;,
+  &quot;age&quot;: 25
+}
+</code></pre>
+<h2 id="code-blocks-in-list">Code Blocks in List</h2>
+<p>Code blocks in lists have to be indented with at least 8 spaces (4 tabs) and separated with a blank line from other content</p>
+<ol>
+<li><p>Open the file.</p>
+</li>
+<li><p>Find the following code block on line 21:</p>
+<pre class="pre codeblock vm-code-block prettyprint"><code> &lt;html&gt;
+   &lt;head&gt;
+     &lt;title&gt;Test&lt;/title&gt;
+   &lt;/head&gt;
+</code></pre>
+</li>
+<li><p>Update the title to match the name of your website.</p>
+<pre><code class="language-shell">  $ echo 'Prague,Jan,101,4875.33
+  Rome,Mar,86,1557.39
+  Bangalore,May,317,8936.99
+  Beijin,Jul,411,11600.67' &gt; /tmp/pxf_hdfs_simple.txt
+</code></pre>
+<p>Note the use of comma <code>,</code> to separate the four data fields</p>
+</li>
+</ol>
+<h2 id="blockquotes">Blockquotes:</h2>
+<blockquote>
+<p>This is an example of blockquote</p>
+</blockquote>
+<blockquote>
+<p>This is an example</p>
+<p>of blockquote</p>
+<p>on multiple lines</p>
+</blockquote>

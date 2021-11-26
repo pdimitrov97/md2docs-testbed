@@ -1,0 +1,10 @@
+<h1 id="curly-brackets-and-comments">Curly brackets and Comments</h1>
+<h2 id="curly-brackets">Curly brackets</h2>
+<p>Markdown project uses <a href="https://handlebarsjs.com/">https://handlebarsjs.com/</a> templating engine to process dynamic content.</p>
+<p>Handlebars syntax is using curly brackets, so any usage of curly brackets has to be escaped if it is not a Handlebars syntax.</p>
+<h2 id="comments">Comments</h2>
+<p>ERB comments are automatically converter to Handlebars comments</p>
+<pre class="pre codeblock vm-code-block prettyprint"><code>&lt;%# This is an ERB comment&gt;
+</code></pre>
+<pre class="pre codeblock vm-code-block prettyprint"><code>{{! This is a Handlebars comment }}
+</code></pre>

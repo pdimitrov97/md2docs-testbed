@@ -1,0 +1,12 @@
+<h1 id="if-statements">If Statements</h1>
+<p>ERB If statements are automatically converted into Handlebars expressions</p>
+<p>Simple If statement checking variable value:</p>
+<pre class="pre codeblock vm-code-block prettyprint"><code>&lt;% if vars.product_name == 'vSphere' %&gt;
+</code></pre>
+<pre class="pre codeblock vm-code-block prettyprint"><code>{{# evalExpression &quot;vars.product_name == 'vSphere'&quot; }}
+</code></pre>
+<p>More complex If statement with multiple conditions</p>
+<pre class="pre codeblock vm-code-block prettyprint"><code>&lt;% if vars.product_name == 'vSphere' || (vars.isCloud == true || vars.product_version &gt; 3) %&gt;
+</code></pre>
+<pre class="pre codeblock vm-code-block prettyprint"><code>{{# evalExpression &quot;vars.product_name == 'vSphere' || (vars.isCloud == true || vars.product_version &gt; 3)&quot; }}
+</code></pre>
