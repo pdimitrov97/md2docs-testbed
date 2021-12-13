@@ -7,9 +7,9 @@
 
     For example:
 
-    <pre class="terminal">$ kubectl delete secret mysql-sample-credentials
+    <pre class="terminal"><code>$ kubectl delete secret mysql-sample-credentials
     <br>secret "mysql-sample-credentials" deleted
-    </pre>
+    </code></pre>
 
 1. Wait until Kubernetes has automatically re-created the secret.
    You can watch the progress by running:
@@ -20,12 +20,12 @@
     For example:
 
     <pre class="terminal">$ kubectl get secret --watch
-NAME                                  TYPE                                  DATA   AGE
-default-token-wb7gl                   kubernetes.io/service-account-token   3      10d
-<span style="color: #77bf00;">mysql-sample-credentials         Opaque                                4      48s</span>
-tanzu-mysql-backup-cron-token-c7bnt   kubernetes.io/service-account-token   3      10d
-tanzu-mysql-image-registry            kubernetes.io/dockerconfigjson        1      2m3s
-tanzu-mysql-token-24cdv               kubernetes.io/service-account-token   3      10d
+    <br>NAME                                  TYPE                                  DATA   AGE
+    default-token-wb7gl                   kubernetes.io/service-account-token   3      10d
+    <span style="color: #77bf00;">mysql-sample-credentials         Opaque                                4      48s</span>
+    tanzu-mysql-backup-cron-token-c7bnt   kubernetes.io/service-account-token   3      10d
+    tanzu-mysql-image-registry            kubernetes.io/dockerconfigjson        1      2m3s
+    tanzu-mysql-token-24cdv               kubernetes.io/service-account-token   3      10d
     </pre>
 
 1. Update the database with the new passwords by restarting your MySQL instance:
