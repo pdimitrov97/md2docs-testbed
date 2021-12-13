@@ -26,3 +26,4 @@
         - [Html with nested ERB If statements](html/erb-nested-if-statements.html)
         - [Html with nested HBS If statements](html/hbs-nested-if-statements.html)
         - [Html with Partial with local vars](html/erb-partials-with-locals.html)
+    - [Usage Scenarios](user-scenarios/terminal-class-usage.md)
