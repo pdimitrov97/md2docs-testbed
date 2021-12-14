@@ -98,7 +98,7 @@ This procedure rotates both the MySQL root password and the backup user password
     For example:
 
     <pre class="terminal">$ kubectl get mysql mysql-sample
-    <br>NAME           READY   STATUS    AGE
+    NAME           READY   STATUS    AGE
     mysql-sample   true    Running   10d
     </pre>
 
