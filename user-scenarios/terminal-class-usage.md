@@ -155,8 +155,8 @@ user password.
     <pre class="terminal">
     ```
     $ kubectl get mysql mysql-sample
-    NAME           READY   STATUS    AGE</span>
-    mysql-sample   true    Running   10d<span>
+    NAME           READY   STATUS    AGE
+    mysql-sample   true    Running   10d
     ```
     </pre>
 
