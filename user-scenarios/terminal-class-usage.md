@@ -152,9 +152,12 @@ user password.
     column is `Running`.
     For example:
 
-    <pre class="terminal">$ kubectl get mysql mysql-sample
-    <span>NAME           READY   STATUS    AGE</span>
-    <span>mysql-sample   true    Running   10d<span>
+    <pre class="terminal">
+    ```
+    $ kubectl get mysql mysql-sample
+    NAME           READY   STATUS    AGE</span>
+    mysql-sample   true    Running   10d<span>
+    ```
     </pre>
 
 1. To verify that the password was rotated successfully, try connecting to your
