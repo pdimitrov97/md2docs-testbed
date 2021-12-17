@@ -32,7 +32,6 @@ To simplify securing a deployment while still allowing apps reach external servi
 
 For examples of typical ASGs, see [Typical ASGs](#typical-groups).
 
-<% if vars.platform_code.include? "CF" %>
 
 ### <a id='default-asg'></a> Default ASGs
 
@@ -42,7 +41,6 @@ For examples of typical ASGs, see [Typical ASGs](#typical-groups).
 <%= partial '/pcf/core/2-7/default_asg' %>
 <% end %>
 
-<% end %>
 
 
 ### <a id="asg-sets"></a> ASG Sets
