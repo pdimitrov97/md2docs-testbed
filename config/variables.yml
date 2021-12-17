@@ -3,3 +3,4 @@ template_variables:
   product_short: Md2Docs
   current_version: 1
   max_version: 1
+  platform_code: CF
