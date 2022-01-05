@@ -30,4 +30,5 @@
         - [Eval Expression 1](user-scenarios/eval-expression-problem.md)
         - [Eval Expression 2](user-scenarios/eval-expression-problem-2.md)
         - [HBS Like Syntax](user-scenarios/hbs-like-syntax.erb.md)
+        - [Language Code Blocks](language-specific-code-blocks.md)
     - [External Link](https://www.google.com/search?q=markdown)
