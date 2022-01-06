@@ -153,11 +153,11 @@ user password.
     For example:
 
     <pre class="terminal">
-    ```
-    $ kubectl get mysql mysql-sample
-    NAME           READY   STATUS    AGE
-    mysql-sample   true    Running   10d
-    ```
+        ```
+        $ kubectl get mysql mysql-sample
+        NAME           READY   STATUS    AGE
+        mysql-sample   true    Running   10d
+        ```
     </pre>
 
 1. To verify that the password was rotated successfully, try connecting to your
